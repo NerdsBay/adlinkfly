@@ -1,0 +1,373 @@
+1524966381
+s:36637:"            <link rel="stylesheet" href="//cdn.rawgit.com/lipis/flag-icon-css/2.8.0/css/flag-icon.min.css"/>
+
+            <div class="payout-rates">
+                <!-- Nav tabs -->
+                <ul class="nav nav-tabs" role="tablist">
+                                            <li role="presentation"><a href="#ban-ner-ads" aria-controls="ban-ner-ads" role="tab"
+                                                   data-toggle="tab">Banner</a></li>
+                                                                            </ul>
+
+                <!-- Tab panes -->
+                <div class="tab-content">
+                                            <div role="tabpanel" class="tab-pane" id="ban-ner-ads">
+                            <table class="table table-hover table-striped">
+                                <tr>
+                                    <th rowspan="2">Package Description / Country</th>
+                                    <th colspan="2">Earnings per 1000 Views</th>
+                                </tr>
+                                <tr>
+                                    <td style="text-align: center; font-weight: bold">
+                                        Desktop                                    </td>
+                                    <td style="text-align: center; font-weight: bold">
+                                        Mobile / Tablet                                    </td>
+                                </tr>
+                                                                                                                                        <tr>
+                                        <td>
+                                            <span class="flag-icon flag-icon-fr"></span>
+                                            France                                        </td>
+                                        <td style="text-align: center;">
+                                            $12.00                                        </td>
+                                        <td style="text-align: center;">
+                                            $14.00                                        </td>
+                                    </tr>
+                                                                                                        <tr>
+                                        <td>
+                                            <span class="flag-icon flag-icon-al"></span>
+                                            Albania                                        </td>
+                                        <td style="text-align: center;">
+                                            $11.00                                        </td>
+                                        <td style="text-align: center;">
+                                            $12.00                                        </td>
+                                    </tr>
+                                                                                                        <tr>
+                                        <td>
+                                            <span class="flag-icon flag-icon-cy"></span>
+                                            Cyprus                                        </td>
+                                        <td style="text-align: center;">
+                                            $10.00                                        </td>
+                                        <td style="text-align: center;">
+                                            $12.00                                        </td>
+                                    </tr>
+                                                                                                        <tr>
+                                        <td>
+                                            <span class="flag-icon flag-icon-us"></span>
+                                            United States                                        </td>
+                                        <td style="text-align: center;">
+                                            $9.00                                        </td>
+                                        <td style="text-align: center;">
+                                            $10.00                                        </td>
+                                    </tr>
+                                                                                                        <tr>
+                                        <td>
+                                            <span class="flag-icon flag-icon-se"></span>
+                                            Sweden                                        </td>
+                                        <td style="text-align: center;">
+                                            $8.00                                        </td>
+                                        <td style="text-align: center;">
+                                            $9.00                                        </td>
+                                    </tr>
+                                                                                                        <tr>
+                                        <td>
+                                            <span class="flag-icon flag-icon-ca"></span>
+                                            Canada                                        </td>
+                                        <td style="text-align: center;">
+                                            $8.00                                        </td>
+                                        <td style="text-align: center;">
+                                            $9.00                                        </td>
+                                    </tr>
+                                                                                                        <tr>
+                                        <td>
+                                            <span class="flag-icon flag-icon-pl"></span>
+                                            Poland                                        </td>
+                                        <td style="text-align: center;">
+                                            $9.00                                        </td>
+                                        <td style="text-align: center;">
+                                            $9.00                                        </td>
+                                    </tr>
+                                                                                                        <tr>
+                                        <td>
+                                            <span class="flag-icon flag-icon-de"></span>
+                                            Germany                                        </td>
+                                        <td style="text-align: center;">
+                                            $8.00                                        </td>
+                                        <td style="text-align: center;">
+                                            $9.00                                        </td>
+                                    </tr>
+                                                                                                        <tr>
+                                        <td>
+                                            <span class="flag-icon flag-icon-au"></span>
+                                            Australia                                        </td>
+                                        <td style="text-align: center;">
+                                            $8.00                                        </td>
+                                        <td style="text-align: center;">
+                                            $9.00                                        </td>
+                                    </tr>
+                                                                                                        <tr>
+                                        <td>
+                                            <span class="flag-icon flag-icon-gb"></span>
+                                            United Kingdom                                        </td>
+                                        <td style="text-align: center;">
+                                            $8.00                                        </td>
+                                        <td style="text-align: center;">
+                                            $9.00                                        </td>
+                                    </tr>
+                                                                                                        <tr>
+                                        <td>
+                                            <span class="flag-icon flag-icon-eg"></span>
+                                            Egypt                                        </td>
+                                        <td style="text-align: center;">
+                                            $8.00                                        </td>
+                                        <td style="text-align: center;">
+                                            $9.00                                        </td>
+                                    </tr>
+                                                                                                        <tr>
+                                        <td>
+                                            <span class="flag-icon flag-icon-om"></span>
+                                            Oman                                        </td>
+                                        <td style="text-align: center;">
+                                            $7.00                                        </td>
+                                        <td style="text-align: center;">
+                                            $8.00                                        </td>
+                                    </tr>
+                                                                                                        <tr>
+                                        <td>
+                                            <span class="flag-icon flag-icon-iq"></span>
+                                            Iraq                                        </td>
+                                        <td style="text-align: center;">
+                                            $5.00                                        </td>
+                                        <td style="text-align: center;">
+                                            $7.00                                        </td>
+                                    </tr>
+                                                                                                        <tr>
+                                        <td>
+                                            <span class="flag-icon flag-icon-nl"></span>
+                                            Netherlands                                        </td>
+                                        <td style="text-align: center;">
+                                            $6.00                                        </td>
+                                        <td style="text-align: center;">
+                                            $7.00                                        </td>
+                                    </tr>
+                                                                                                        <tr>
+                                        <td>
+                                            <span class="flag-icon flag-icon-be"></span>
+                                            Belgium                                        </td>
+                                        <td style="text-align: center;">
+                                            $6.00                                        </td>
+                                        <td style="text-align: center;">
+                                            $7.00                                        </td>
+                                    </tr>
+                                                                                                        <tr>
+                                        <td>
+                                            <span class="flag-icon flag-icon-kw"></span>
+                                            Kuwait                                        </td>
+                                        <td style="text-align: center;">
+                                            $6.00                                        </td>
+                                        <td style="text-align: center;">
+                                            $7.00                                        </td>
+                                    </tr>
+                                                                                                        <tr>
+                                        <td>
+                                            <span class="flag-icon flag-icon-ma"></span>
+                                            Morocco                                        </td>
+                                        <td style="text-align: center;">
+                                            $6.00                                        </td>
+                                        <td style="text-align: center;">
+                                            $7.00                                        </td>
+                                    </tr>
+                                                                                                        <tr>
+                                        <td>
+                                            <span class="flag-icon flag-icon-qa"></span>
+                                            Qatar                                        </td>
+                                        <td style="text-align: center;">
+                                            $6.00                                        </td>
+                                        <td style="text-align: center;">
+                                            $7.00                                        </td>
+                                    </tr>
+                                                                                                        <tr>
+                                        <td>
+                                            <span class="flag-icon flag-icon-dz"></span>
+                                            Algeria                                        </td>
+                                        <td style="text-align: center;">
+                                            $6.00                                        </td>
+                                        <td style="text-align: center;">
+                                            $7.00                                        </td>
+                                    </tr>
+                                                                                                        <tr>
+                                        <td>
+                                            <span class="flag-icon flag-icon-sa"></span>
+                                            Saudi Arabia                                        </td>
+                                        <td style="text-align: center;">
+                                            $6.00                                        </td>
+                                        <td style="text-align: center;">
+                                            $7.00                                        </td>
+                                    </tr>
+                                                                                                        <tr>
+                                        <td>
+                                            <span class="flag-icon flag-icon-es"></span>
+                                            Spain                                        </td>
+                                        <td style="text-align: center;">
+                                            $6.00                                        </td>
+                                        <td style="text-align: center;">
+                                            $7.00                                        </td>
+                                    </tr>
+                                                                                                        <tr>
+                                        <td>
+                                            <span class="flag-icon flag-icon-ps"></span>
+                                            Palestine                                        </td>
+                                        <td style="text-align: center;">
+                                            $6.00                                        </td>
+                                        <td style="text-align: center;">
+                                            $7.00                                        </td>
+                                    </tr>
+                                                                                                        <tr>
+                                        <td>
+                                            <span class="flag-icon flag-icon-ye"></span>
+                                            Yemen                                        </td>
+                                        <td style="text-align: center;">
+                                            $5.00                                        </td>
+                                        <td style="text-align: center;">
+                                            $6.00                                        </td>
+                                    </tr>
+                                                                                                        <tr>
+                                        <td>
+                                            <span class="flag-icon flag-icon-dk"></span>
+                                            Denmark                                        </td>
+                                        <td style="text-align: center;">
+                                            $7.00                                        </td>
+                                        <td style="text-align: center;">
+                                            $6.00                                        </td>
+                                    </tr>
+                                                                                                        <tr>
+                                        <td>
+                                            <span class="flag-icon flag-icon-ae"></span>
+                                            United Arab Emirates                                        </td>
+                                        <td style="text-align: center;">
+                                            $6.00                                        </td>
+                                        <td style="text-align: center;">
+                                            $6.00                                        </td>
+                                    </tr>
+                                                                                                        <tr>
+                                        <td>
+                                            <span class="flag-icon flag-icon-it"></span>
+                                            Italy                                        </td>
+                                        <td style="text-align: center;">
+                                            $6.00                                        </td>
+                                        <td style="text-align: center;">
+                                            $6.00                                        </td>
+                                    </tr>
+                                                                                                        <tr>
+                                        <td>
+                                            <span class="flag-icon flag-icon-lb"></span>
+                                            Lebanon                                        </td>
+                                        <td style="text-align: center;">
+                                            $5.00                                        </td>
+                                        <td style="text-align: center;">
+                                            $6.00                                        </td>
+                                    </tr>
+                                                                                                        <tr>
+                                        <td>
+                                            <span class="flag-icon flag-icon-tn"></span>
+                                            Tunisia                                        </td>
+                                        <td style="text-align: center;">
+                                            $6.00                                        </td>
+                                        <td style="text-align: center;">
+                                            $6.00                                        </td>
+                                    </tr>
+                                                                                                        <tr>
+                                        <td>
+                                            <span class="flag-icon flag-icon-jo"></span>
+                                            Jordan                                        </td>
+                                        <td style="text-align: center;">
+                                            $5.00                                        </td>
+                                        <td style="text-align: center;">
+                                            $6.00                                        </td>
+                                    </tr>
+                                                                                                        <tr>
+                                        <td>
+                                            <span class="flag-icon flag-icon-tr"></span>
+                                            Turkey                                        </td>
+                                        <td style="text-align: center;">
+                                            $6.00                                        </td>
+                                        <td style="text-align: center;">
+                                            $6.00                                        </td>
+                                    </tr>
+                                                                                                        <tr>
+                                        <td>
+                                            <span class="flag-icon flag-icon-ly"></span>
+                                            Libyan Arab Jamahiriya                                        </td>
+                                        <td style="text-align: center;">
+                                            $4.00                                        </td>
+                                        <td style="text-align: center;">
+                                            $6.00                                        </td>
+                                    </tr>
+                                                                                                        <tr>
+                                        <td>
+                                            <span class="flag-icon flag-icon-mx"></span>
+                                            Mexico                                        </td>
+                                        <td style="text-align: center;">
+                                            $4.50                                        </td>
+                                        <td style="text-align: center;">
+                                            $5.50                                        </td>
+                                    </tr>
+                                                                                                        <tr>
+                                        <td>
+                                            <span class="flag-icon flag-icon-co"></span>
+                                            Colombia                                        </td>
+                                        <td style="text-align: center;">
+                                            $4.00                                        </td>
+                                        <td style="text-align: center;">
+                                            $5.00                                        </td>
+                                    </tr>
+                                                                                                        <tr>
+                                        <td>
+                                            <span class="flag-icon flag-icon-tw"></span>
+                                            Taiwan, Province of China                                        </td>
+                                        <td style="text-align: center;">
+                                            $4.00                                        </td>
+                                        <td style="text-align: center;">
+                                            $5.00                                        </td>
+                                    </tr>
+                                                                                                        <tr>
+                                        <td>
+                                            <span class="flag-icon flag-icon-sd"></span>
+                                            Sudan                                        </td>
+                                        <td style="text-align: center;">
+                                            $4.00                                        </td>
+                                        <td style="text-align: center;">
+                                            $5.00                                        </td>
+                                    </tr>
+                                                                                                        <tr>
+                                        <td>
+                                            <span class="flag-icon flag-icon-ar"></span>
+                                            Argentina                                        </td>
+                                        <td style="text-align: center;">
+                                            $4.00                                        </td>
+                                        <td style="text-align: center;">
+                                            $5.00                                        </td>
+                                    </tr>
+                                                                                                        <tr>
+                                        <td>
+                                            <span class="flag-icon flag-icon-all"></span>
+                                            Worldwide Deal(All Countries)                                        </td>
+                                        <td style="text-align: center;">
+                                            $3.50                                        </td>
+                                        <td style="text-align: center;">
+                                            $4.00                                        </td>
+                                    </tr>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <tr>
+                                        <td>
+                                            <span class="flag-icon flag-icon-cn"></span>
+                                            China                                        </td>
+                                        <td style="text-align: center;">
+                                            $4.00                                        </td>
+                                        <td style="text-align: center;">
+                                            $0.00                                        </td>
+                                    </tr>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </table>
+                        </div>
+                                                                            </div>
+
+            </div>
+
+            ";
